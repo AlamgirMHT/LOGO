@@ -1,7 +1,7 @@
 # TERMUX LOGO
 
 <p align="center">
-  <img src="https://github.com/MR-ZIHAD/LOGO/blob/main/Screenshot_2022_1123_154333.jpg">
+  <img src="https://github.com/AlamgirMHT/LOGO/blob/main/GroupMe_20221129_201459.jpeg">
 </p>
 
 ##  👇COMMAND👇
